@@ -92,11 +92,11 @@ def banner(): #LOGO ( LO GOBLOK )
 \033[0;00n┃┃╱╱┃╰━╯┃┃╰━╯┃┃┃╰┫╭━╮┃╰━╯┃┃┃╰┫╰━━┫┃┃╰╮╱╰╮╭╯╭╯╰┳┳━━╯┃
 \033[0;00m╰╯╱╱╰━━━╯╰━━━┻╯╰━┻╯╱╰┻━━━┻╯╰━┻━━━┻╯╰━╯╱╱╰╯╱╰━━┻┻━━━╯
 -----------------------------------------------------
- [\x1b[1;96m+%s] Author       : MR.B34N 
- [\x1b[1;96m+%s] Userinfo     : Free Rasa\033[0;32mPremium\x1b[0m
+ [\x1b[1;96m+%s] Author       : JULKAR NAYEN 
+ [\x1b[1;96m+%s] Userinfo     : \033[0;32mPremium\x1b[0m
  [\x1b[1;96m+%s] Facebook     : https://facebook.com/akuninibot
- [\x1b[1;96m+%s] VERSION      : SIMPLE MENU 1.5
- [\x1b[1;96m+%s] TEAM         : K C T - JAWABARATXCODE
+ [\x1b[1;96m+%s] VERSION      : SIMPLE MENU 2.0
+ [\x1b[1;96m+%s] TEAM         : JULKAR-NAYEN
 -----------------------------------------------------'''%(N,N,N,N,N,N))
 
 class login:
@@ -167,8 +167,8 @@ class menu:
 		jalan(' %s├[%s•%s] Alamat IP      : %s'%(N,O,N,IP))
 		jalan(' %s├[%s•%s] Tanggal Login  : %s'%(N,O,N,waktu))
 		jalan(' %s│'%(N))
-		jalan(' %s├[%sA%s] crack dari daftar teman'%(N,O,N))
-		jalan(' %s├[%sB%s] crack dari akun publik'%(N,O,N))
+		jalan(' %s├[%sA%s] CRACK FROM PUBLIC FRIENDLIST'%(N,O,N))
+		jalan(' %s├[%sB%s] CRACK FROM PUBLIC UID'%(N,O,N))
 		jalan(' %s├[%sC%s] crack dari akun massal'%(N,O,N))
 		jalan(' %s├[%sD%s] cek hasil crack ok/cp '%(N,O,N))
 		jalan(' %s├[%sF%s] seting User-Agent'%(N,O,N))
